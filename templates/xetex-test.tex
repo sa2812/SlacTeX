@@ -1,0 +1,18 @@
+\documentclass{beamer}
+
+\usefonttheme{professionalfonts}  % needed for fontspec to work properly in beamer
+
+\usepackage{fontspec}
+\setsansfont{Arial}
+
+\usepackage{mathtools}  % should be loaded before unicode-math
+\usepackage{unicode-math}
+\setmathfont{Latin Modern Math}  % or any of the other opentype math fonts
+
+\begin{document}
+
+\begin{frame}
+This is a test.  $f(x) = \pi \approx 3.14159$
+\end{frame}
+
+\end{document}

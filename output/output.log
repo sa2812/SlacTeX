@@ -1,0 +1,9 @@
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6100 64-bit) (preloaded format=xetex 2016.12.7)  7 DEC 2016 22:02
+entering extended mode
+**./output.tex
+(output.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  {beamer}
+? x
+No pages of output.
